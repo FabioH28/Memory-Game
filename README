@@ -1,0 +1,13 @@
+Fun, interactive memory matching game built with HTML, CSS, and JavaScript.
+Live Demo: https://cozy-sunflower-a28af9.netlify.app/
+
+Features:
+Modern, glassmorphism UI with gradient background
+Flip cards to match pairs
+Score tracking and win notification
+
+How to Play:
+Click cards to flip, match pairs, and find all matches to win! 🎉
+
+Tech:
+HTML | CSS | JavaScript
